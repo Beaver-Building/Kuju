@@ -17,7 +17,7 @@ The purpose of the project is to bring a possibility of in-depth integration wit
 ### How is the progress
 -   [x] 3D Game
 -   [x] live platform
--   [ ] To create a character from API call (OR Grant character to user)
+-   [x] To create a character from API call (OR Grant character to user)
 
 ### What do you want?
 
