@@ -1,8 +1,6 @@
 # KUJU
 
-  
-
-Kuju enable audience to join the scene as charactors. This is the next generation Danmaku(弹幕) for game streaming.
+KUJU enable audience to join the scene via a game plug-in based on the Immersive Experience Agent and blockchain. And we are aiming at the next generation Danmaku(弹幕) for game streaming.
 
 
 ### What's your unique insight?
