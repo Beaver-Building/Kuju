@@ -529,11 +529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Playground\\PubHub\\publisher\\publisher.csproj",
+      "projectUniqueName": "D:\\Playground\\Kuju\\PubHub\\publisher\\publisher.csproj",
       "projectName": "publisher",
-      "projectPath": "D:\\Playground\\PubHub\\publisher\\publisher.csproj",
+      "projectPath": "D:\\Playground\\Kuju\\PubHub\\publisher\\publisher.csproj",
       "packagesPath": "C:\\Users\\junczhu\\.nuget\\packages\\",
-      "outputPath": "D:\\Playground\\PubHub\\publisher\\obj\\",
+      "outputPath": "D:\\Playground\\Kuju\\PubHub\\publisher\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

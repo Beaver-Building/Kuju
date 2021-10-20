@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bok0iNP9lkSHGWdOJ5qRFuduaxaeR0wqIBFO0IS/qa6A3JfHYUp1fNVXKEOMGgwtoYwGB1YOm1IIGj7GIzmQ9w==",
+  "dgSpecHash": "bFsDOSNeteaKmJo6JkS0HULWDXVHD/GiUbwXdNSSgWv9yYF8utG/zCP+2cwIGiHSQUREpZkq9I+XLlJiNxgMyQ==",
   "success": true,
-  "projectFilePath": "D:\\Playground\\PubHub\\publisher\\publisher.csproj",
+  "projectFilePath": "D:\\Playground\\Kuju\\PubHub\\publisher\\publisher.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\junczhu\\.nuget\\packages\\azure.core\\1.19.0\\azure.core.1.19.0.nupkg.sha512",
     "C:\\Users\\junczhu\\.nuget\\packages\\azure.core.experimental\\0.1.0-preview.16\\azure.core.experimental.0.1.0-preview.16.nupkg.sha512",
